@@ -1,0 +1,22 @@
+{
+  "name": "basic-minecraft-anarchybot",
+  "version": "1.0.0",
+  "description": "A very very basic anarchy bot with command listeners and in game chat display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XX-Anonymous-XX/Basic-Minecraft-AnarchyBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XX-Anonymous-XX/Basic-Minecraft-AnarchyBot/issues"
+  },
+  "homepage": "https://github.com/XX-Anonymous-XX/Basic-Minecraft-AnarchyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
