@@ -1,0 +1,17 @@
+{
+    "minecraft":{
+        "ip":"127.0.0.1",
+        "port": "25127",
+        "join":" ",
+        "help":" "
+    },
+
+    "discord":{
+        "token":" "
+    },
+
+    "channels":{
+        "id":" "
+    }
+
+}

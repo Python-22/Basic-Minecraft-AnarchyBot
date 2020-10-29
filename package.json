@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/XX-Anonymous-XX/Basic-Minecraft-AnarchyBot#readme",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": "^12.4.1",
+    "mineflayer": "^2.32.0",
+    "mineflayer-tps": "^1.0.1"
   }
 }
